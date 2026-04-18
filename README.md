@@ -12,8 +12,7 @@ Soy un profesional de la educación, especalista en finanzas y planificación es
 ### Proyectos destacados
 🚀 **[Mi Primer Repositorio de la formación docente]**
 * Descripción: repositorio que fundamenta la práctica para hacer uso efectivo de Git, utilizando diferentes archivos.
-* [Ver Repositorio]([enlace-a-tu-proyecto](https://github.com/ovidioomarmartinez-bot/mirepodelaformaciondocente 
-))
+* [Ver Repositorio](https://github.com/ovidioomarmartinez-bot/mirepodelaformaciondocente)
 
 ### Contacto
 * [Correo Electrónico](ovidio.omar.martinez@clases.edu.sv)
