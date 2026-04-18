@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡La actitud es el puente que cruza la inteligencia y la disciplina! Soy [Ovidio Martínez] 👋
 
-<!--
-**ovidioomarmartinez-bot/ovidioomarmartinez-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí
+Soy un profesional de la educación, inspirado en un modelo educativo transformador que conecte el desarrollo técnologico y el humanismo racional.
 
-Here are some ideas to get you started:
+### Tecnologías y herramientas
+* **Modelo ia:** Gemini, Claude, Perplexity, Gpt, otros
+* **Herramientas de Automatización:** n8n, Google Workspace API
+* **Análisis de Datos:** Google Sheets.
+* **Control de Versiones:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos destacados
+🚀 **[Mi Primer Repositorio de la formación docente]**
+* Descripción: repositorio que fundamenta la práctica para hacer uso efectivo de Git, utilizando diferentes archivos.
+* [Ver Repositorio]([enlace-a-tu-proyecto](https://github.com/ovidioomarmartinez-bot/mirepodelaformaciondocente 
+))
+
+### Contacto
+* [Correo Electrónico](ovidio.omar.martinez@clases.edu.sv)
