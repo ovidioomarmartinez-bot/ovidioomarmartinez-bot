@@ -4,6 +4,7 @@
 Soy un profesional de la educación, especalista en finanzas y planificación estratégica, inspirado en un modelo educativo transformador que conecte el desarrollo técnologico y el humanismo racional.
 
 ### Tecnologías y herramientas
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 * **Modelo ia:** Gemini, Claude, Perplexity, Gpt, otros
 * **Herramientas de Automatización:** n8n, Google Workspace API
 * **Análisis de Datos:** Google Sheets.
