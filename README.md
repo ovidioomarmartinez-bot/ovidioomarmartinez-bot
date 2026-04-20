@@ -1,4 +1,4 @@
-# ¡La actitud es el puente que cruza la inteligencia y la disciplina! Soy [Ovidio Martínez] 👋
+# ¡La actitud es el puente que cruza la inteligencia y la disciplina! Soy Ovidio Martínez 👋
 
 ### Sobre mí
 Soy un profesional de la educación, especalista en finanzas y planificación estratégica, inspirado en un modelo educativo transformador que conecte el desarrollo técnologico y el humanismo racional.
